@@ -31,43 +31,43 @@ class HomeIndex extends React.Component {
                     <section id="one" className="tiles">
                         <article style={{backgroundImage: `url(${pic01})`}}>
                             <header className="major">
-                                <h3>Aliquam</h3>
-                                <p>Ipsum dolor sit amet</p>
+                                <h3>Energy Work</h3>
+                                <p>Energy healing & cord cutting</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic02})`}}>
                             <header className="major">
-                                <h3>Tempus</h3>
-                                <p>feugiat amet tempus</p>
+                                <h3>Astrology</h3>
+                                <p>natal charts, Planetary Remediation</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic03})`}}>
                             <header className="major">
-                                <h3>Magna</h3>
-                                <p>Lorem etiam nullam</p>
+                                <h3>Rapeh Ceremonies</h3>
+                                <p>Heal with the plant spirits</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic04})`}}>
                             <header className="major">
-                                <h3>Ipsum</h3>
-                                <p>Nisl sed aliquam</p>
+                                <h3>Tarot Readings</h3>
+                                <p>Got a question? Let's try some divination.</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic05})`}}>
                             <header className="major">
-                                <h3>Consequat</h3>
-                                <p>Ipsum dolor sit amet</p>
+                                <h3>Magick Now</h3>
+                                <p>A crash course in magical knowledge.</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic06})`}}>
                             <header className="major">
-                                <h3>Etiam</h3>
-                                <p>Feugiat amet tempus</p>
+                                <h3>Intuitive and Spiritual Counseling</h3>
+                                <p>Chats about and support for your life.</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
@@ -75,9 +75,9 @@ class HomeIndex extends React.Component {
                     <section id="two">
                         <div className="inner">
                             <header className="major">
-                                <h2>Massa libero</h2>
+                                <h2>Hi I'm Russell</h2>
                             </header>
-                            <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+                            <p>I'm a spiritual, shamanic, intuitive healer. </p>
                             <ul className="actions">
                                 <li><Link to="/landing" className="button next">Get Started</Link></li>
                             </ul>
