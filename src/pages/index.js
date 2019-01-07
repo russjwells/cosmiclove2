@@ -75,11 +75,11 @@ class HomeIndex extends React.Component {
                     <section id="two">
                         <div className="inner">
                             <header className="major">
-                                <h2>Hi I'm Russell</h2>
+                                <h2>Hello, I am Russell Wells and I am here to help you evolve.</h2>
                             </header>
-                            <p>I'm a spiritual, shamanic, intuitive healer. </p>
+                            <p>I am an energy worker and intuitive healer. I am initiated into the healing art of Reiki in the Usui lineage. I practice the magic of the Western Esoteric Tradition among others. I am passionate about helping others stand in their fullest expression. I am now offering energy work sessions. Lay on the table and relax as your energetic system is supported and restored. Uncover and discover inner solutions to your pains and problems. I am based in Encinitas, San Diego, California. I have spaces open for weekly clients. New to energy work? Let's connect and discover how I can be of service to your growth.</p>
                             <ul className="actions">
-                                <li><Link to="/landing" className="button next">Get Started</Link></li>
+                                <li><Link to="#two" className="button next">Get Started</Link></li>
                             </ul>
                         </div>
                     </section>
