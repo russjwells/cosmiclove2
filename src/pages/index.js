@@ -66,8 +66,8 @@ class HomeIndex extends React.Component {
                         </article>
                         <article style={{backgroundImage: `url(${pic06})`}}>
                             <header className="major">
-                                <h3>Intuitive and Spiritual Counseling</h3>
-                                <p>Chats about and support for your life.</p>
+                                <h3>Spiritual Counseling</h3>
+                                <p>Chats and support for your life.</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
@@ -75,11 +75,11 @@ class HomeIndex extends React.Component {
                     <section id="two">
                         <div className="inner">
                             <header className="major">
-                                <h2>Hello, I am Russell Wells and I am here to help you evolve.</h2>
+                                <h2>Hello, I am Russell Wells</h2>
                             </header>
-                            <p>I am an energy worker and intuitive healer. I am initiated into the healing art of Reiki in the Usui lineage. I practice the magic of the Western Esoteric Tradition among others. I am passionate about helping others stand in their fullest expression. I am now offering energy work sessions. Lay on the table and relax as your energetic system is supported and restored. Uncover and discover inner solutions to your pains and problems. I am based in Encinitas, San Diego, California. I have spaces open for weekly clients. New to energy work? Let's connect and discover how I can be of service to your growth.</p>
+                            <p>I am here to help you evolve. I am an energy worker and intuitive healer. I am initiated into the healing art of Reiki in the Usui lineage. I practice the magic of the Western Esoteric Tradition among others. I am passionate about helping others stand in their fullest expression. I am now offering energy work sessions. Lay on the table and relax as your energetic system is supported and restored. Uncover and discover inner solutions to your pains and problems. I am based in Encinitas, California. New to energy work? Let's connect and discover how I can be of service to your growth.</p>
                             <ul className="actions">
-                                <li><Link to="#two" className="button next">Get Started</Link></li>
+                                <li><Link to="#contact" className="button next">Contact me</Link></li>
                             </ul>
                         </div>
                     </section>
