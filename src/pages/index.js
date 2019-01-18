@@ -39,37 +39,37 @@ class HomeIndex extends React.Component {
                         <article style={{backgroundImage: `url(${pic02})`}}>
                             <header className="major">
                                 <h3>Astrology</h3>
-                                <p>natal charts & Planetary Remediation</p>
+                                <p>Planetary Remediation & natal charts</p>
                             </header>
                             <Link to="#two" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic03})`}}>
                             <header className="major">
                                 <h3>Medicine Ceremonies</h3>
-                                <p>Heal with the plant spirits</p>
+                                <p>Healing with plant spirits</p>
                             </header>
-                            <Link to="/#two" className="link primary"></Link>
+                            <Link to="#two" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic04})`}}>
                             <header className="major">
                                 <h3>Divination</h3>
-                                <p>Tarot readings</p>
+                                <p>Tarot & intuitive readings</p>
                             </header>
                             <Link to="#two" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic05})`}}>
                             <header className="major">
                                 <h3>Magick Now</h3>
-                                <p>A crash course in magical knowledge.</p>
+                                <p>A crash course in magical knowledge</p>
                             </header>
                             <Link to="#two" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic06})`}}>
                             <header className="major">
                                 <h3>Spiritual Counseling</h3>
-                                <p>Chats and support for your life.</p>
+                                <p>support for your life</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="#two" className="link primary"></Link>
                         </article>
                     </section>
                     <section id="two">

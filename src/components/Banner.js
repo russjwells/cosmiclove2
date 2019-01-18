@@ -7,10 +7,10 @@ const Banner = (props) => (
                 <h1>Cosmic Love Energy Healing</h1>
             </header>
             <div className="content">
-                <p>Energy Work, Shamanic Healing, Spiritual Counseling
+                <p>Energy Work, Shamanic Healing, Spiritual Counseling and more
                 </p>
                 <ul className="actions">
-                    <li><a href="#one" className="button next scrolly">Learn more</a></li>
+                    <li><a href="#one" className="button next scrolly">My services</a></li>
                 </ul>
             </div>
         </div>
