@@ -4,12 +4,12 @@ import Helmet from 'react-helmet'
 import Layout from '../components/layout'
 import Banner from '../components/Banner'
 
-import pic01 from '../assets/images/pic01.jpg'
-import pic02 from '../assets/images/pic02.jpg'
-import pic03 from '../assets/images/pic03.jpg'
-import pic04 from '../assets/images/pic04.jpg'
-import pic05 from '../assets/images/pic05.jpg'
-import pic06 from '../assets/images/pic06.jpg'
+import pic01 from '../assets/images/hands.jpg'
+import pic02 from '../assets/images/space02.jpg'
+import pic03 from '../assets/images/gunungsindoro.jpg'
+import pic04 from '../assets/images/ball.jpg'
+import pic05 from '../assets/images/candlesandpumpkins.jpg'
+import pic06 from '../assets/images/space06.jpg'
 
 class HomeIndex extends React.Component {
     render() {
@@ -34,35 +34,35 @@ class HomeIndex extends React.Component {
                                 <h3>Energy Work</h3>
                                 <p>Energy healing & cord cutting</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="#two" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic02})`}}>
                             <header className="major">
                                 <h3>Astrology</h3>
-                                <p>natal charts, Planetary Remediation</p>
+                                <p>natal charts & Planetary Remediation</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="#two" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic03})`}}>
                             <header className="major">
-                                <h3>Rapeh Ceremonies</h3>
+                                <h3>Medicine Ceremonies</h3>
                                 <p>Heal with the plant spirits</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="/#two" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic04})`}}>
                             <header className="major">
-                                <h3>Tarot Readings</h3>
-                                <p>Got a question? Let's try some divination.</p>
+                                <h3>Divination</h3>
+                                <p>Tarot readings</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="#two" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic05})`}}>
                             <header className="major">
                                 <h3>Magick Now</h3>
                                 <p>A crash course in magical knowledge.</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="#two" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic06})`}}>
                             <header className="major">
@@ -79,7 +79,7 @@ class HomeIndex extends React.Component {
                             </header>
                             <p>I am here to help you evolve. I am an energy worker and intuitive healer. I am initiated into the healing art of Reiki in the Usui lineage. I practice the magic of the Western Esoteric Tradition among others. I am passionate about helping others stand in their fullest expression. I am now offering energy work sessions. Lay on the table and relax as your energetic system is supported and restored. Uncover and discover inner solutions to your pains and problems. I am based in Encinitas, California. New to energy work? Let's connect and discover how I can be of service to your growth.</p>
                             <ul className="actions">
-                                <li><Link to="#contact" className="button next">Contact me</Link></li>
+                                <li><Link to="#contact" className="button next">Send me a message</Link></li>
                             </ul>
                         </div>
                     </section>
