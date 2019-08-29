@@ -36,13 +36,13 @@ const Contact = (props) => (
                     <div className="contact-method">
                         <span className="icon alt fa-phone"></span>
                         <h3>Phone</h3>
-                        <span>(760) 936-1704</span>
+                        <span>(513) 332-5252</span>
                     </div>
                 </section>
                 <section>
                     <div className="contact-method">
                         <span className="icon alt fa-heart"></span>
-                        <h3>Let's chat</h3>
+                        <h3>Free 15 minute consultations</h3>
                         <span><a href="https://calendly.com/cosmicloveenergyhealing">Book a free consultation now</a></span>
                     </div>
                 </section>
