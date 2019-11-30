@@ -4,7 +4,7 @@ const Banner = (props) => (
     <section id="banner" className="major">
         <div className="inner">
             <header className="major">
-                <h1>Cosmic Love Energy Healing</h1>
+                <h1>Unlock your energy...</h1>
             </header>
             <div className="content">
                 <p>Energy Work, Shamanic Healing, Spiritual Counseling and more
