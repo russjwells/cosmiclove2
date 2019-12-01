@@ -42,7 +42,7 @@ const Contact = (props) => (
                 <section>
                     <div className="contact-method">
                         <span className="icon alt fa-heart"></span>
-                        <h3>Free 15 minute consultations</h3>
+                        <h3>15 minute consultations</h3>
                         <span><a href="https://calendly.com/cosmicloveenergyhealing">Book a free consultation now</a></span>
                     </div>
                 </section>
