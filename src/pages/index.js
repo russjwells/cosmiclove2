@@ -45,8 +45,8 @@ class HomeIndex extends React.Component {
                         </article>
                         <article style={{backgroundImage: `url(${pic03})`}}>
                             <header className="major">
-                                <h3>Medicine Ceremonies</h3>
-                                <p>Healing with plant spirits</p>
+                                <h3>Spiritual Counseling</h3>
+                                <p>support for your life</p>
                             </header>
                             <Link to="#two" className="link primary"></Link>
                         </article>
@@ -54,20 +54,6 @@ class HomeIndex extends React.Component {
                             <header className="major">
                                 <h3>Divination</h3>
                                 <p>Tarot & intuitive readings</p>
-                            </header>
-                            <Link to="#two" className="link primary"></Link>
-                        </article>
-                        <article style={{backgroundImage: `url(${pic05})`}}>
-                            <header className="major">
-                                <h3>Magick Now</h3>
-                                <p>A crash course in magical knowledge</p>
-                            </header>
-                            <Link to="#two" className="link primary"></Link>
-                        </article>
-                        <article style={{backgroundImage: `url(${pic06})`}}>
-                            <header className="major">
-                                <h3>Spiritual Counseling</h3>
-                                <p>support for your life</p>
                             </header>
                             <Link to="#two" className="link primary"></Link>
                         </article>
